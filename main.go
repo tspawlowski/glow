@@ -15,7 +15,7 @@ import (
 	"github.com/mattn/go-isatty"
 	"github.com/spf13/cobra"
 
-	//"github.com/charmbracelet/glamour"
+	//"github.com/tspawlowski/glamour"
 	"github.com/tspawlowski/glamour"
 )
 
